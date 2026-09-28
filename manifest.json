@@ -1,0 +1,13 @@
+{
+  "id": "minimal",
+  "name": "Minimal",
+  "description": "A centred headline over a wide rounded photo, and products floating on soft tiles with room to breathe.",
+  "best_for": "Design objects, tech and premium goods",
+  "backend": "commerce",
+  "es": {
+    "name": "Minimal",
+    "description": "Un titular centrado sobre una foto amplia y redondeada, y productos sobre suaves bloques con aire de sobra.",
+    "best_for": "Objetos de diseño, tecnología y productos premium"
+  },
+  "hero_compact": false
+}
